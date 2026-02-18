@@ -1,0 +1,9 @@
+date,region,product,actual_demand,unit_price
+2024-01-01,North,Product_A,120,50
+2024-01-01,South,Product_A,95,50
+2024-01-01,East,Product_B,80,70
+2024-01-01,West,Product_B,110,70
+2024-02-01,North,Product_A,130,50
+2024-02-01,South,Product_A,90,50
+2024-02-01,East,Product_B,85,70
+2024-02-01,West,Product_B,105,70

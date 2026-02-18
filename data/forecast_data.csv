@@ -1,0 +1,9 @@
+date,region,product,forecast_demand
+2024-01-01,North,Product_A,140
+2024-01-01,South,Product_A,100
+2024-01-01,East,Product_B,75
+2024-01-01,West,Product_B,120
+2024-02-01,North,Product_A,125
+2024-02-01,South,Product_A,110
+2024-02-01,East,Product_B,90
+2024-02-01,West,Product_B,100

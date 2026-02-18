@@ -1,0 +1,9 @@
+date,region,product,inventory_level,holding_cost
+2024-01-01,North,Product_A,160,2
+2024-01-01,South,Product_A,90,2
+2024-01-01,East,Product_B,70,3
+2024-01-01,West,Product_B,130,3
+2024-02-01,North,Product_A,140,2
+2024-02-01,South,Product_A,100,2
+2024-02-01,East,Product_B,95,3
+2024-02-01,West,Product_B,120,3
