@@ -60,6 +60,4 @@ python python/load_data.py\
 python python/forecast_model.py\
 streamlit run python/dashboard.py
 
-## 👤 Author
 
-Yashi Narayan
