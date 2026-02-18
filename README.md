@@ -19,10 +19,10 @@ planning decisions
 This project quantifies where and why value leakage occurs and provides
 data-driven visibility across regions and products.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 -   Python (Pandas, Scikit-learn, Streamlit)
--   SQL (SQLite)
+-   SQL 
 -   ETL Pipelines
 -   Localhost Dashboard (Streamlit)
 -   Power BI (optional)
